@@ -2,5 +2,4 @@ numpy==2.3.1
 pandas==2.3.0
 streamlit
 scikit-learn
-os
 pip==25.1.1
